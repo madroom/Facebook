@@ -10,8 +10,7 @@ import UIKit
 
 class ScaleTransition: BaseTransition {
     
-//    var initialImageFrame = CGRect(x: 0, y: 0, width: 0, height: 0)
-//    var selectedImageView = UIImageView()
+    
     
     override func presentTransition(containerView: UIView, fromViewController: UIViewController, toViewController: UIViewController) {
         
